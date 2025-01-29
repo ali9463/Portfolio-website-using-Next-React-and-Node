@@ -1,3 +1,5 @@
 /.env
+/.env.local
 /.next
 /node_modules
+.pnotes/
