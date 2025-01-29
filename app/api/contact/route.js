@@ -4,8 +4,8 @@ import nodemailer from 'nodemailer';
 
 // Create and configure Nodemailer transporter
 const transporter = nodemailer.createTransport({
-  service: 'gmail',
-  host: 'smtp.gmail.com',
+  // service: 'gmail',
+  host: 'bulk.smtp.mailtrap.io',
   port: 587,
   secure: false, 
   auth: {
@@ -13,6 +13,16 @@ const transporter = nodemailer.createTransport({
     pass: process.env.GMAIL_PASSKEY, 
   },
 });
+
+// const transporter = nodemailer.createTransport({
+//   host: "bulk.smtp.mailtrap.io",
+//   port: 587,
+//   auth: {
+//     user: "api",
+//     pass: "247963648df059ee772aed213a55d02d"
+//   },
+//    debug: true,
+// });
 
 // Helper function to send a message via Telegram
 // async function sendTelegramMessage(token, chat_id, message) {

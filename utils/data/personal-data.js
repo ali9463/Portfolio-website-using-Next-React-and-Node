@@ -25,8 +25,5 @@ export const personalData = {
   github: 'https://github.com/ali9463',
   linkedIn: 'https://www.linkedin.com/in/ali-muhammad-a5923628a/',
   devUsername: "ali9463",
-  web1: "https://real-state-website-using-next.vercel.app/",
-  web2: "https://github.com/ali9463",
-  web3: "https://www.alhabibtravel.co.uk/",
   resume: "/Ali Muhammad.pdf"
 }

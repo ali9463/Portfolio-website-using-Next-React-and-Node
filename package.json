@@ -1,10 +1,10 @@
 {
   "name": "developer-portfolio",
-  "description": "Portfolio of Neha Nooka",
+  "description": "Portfolio of Ali",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 80",
+    "dev": "next dev -p 4000",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
