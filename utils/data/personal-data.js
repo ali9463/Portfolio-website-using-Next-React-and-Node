@@ -24,10 +24,9 @@ export const personalData = {
   address: 'Arifwala Punjab Pakistan',
   github: 'https://github.com/ali9463',
   linkedIn: 'https://www.linkedin.com/in/ali-muhammad-a5923628a/',
-  facebook: 'https://www.facebook.com/NehaNooka/',
-  twitter: 'https://twitter.com/nehanooka',
-  stackOverflow: 'https://stackoverflow.com/users/29148012/neha-nooka',
-  leetcode: "https://leetcode.com/u/nehanooka/",
-  devUsername: "nehanooka",
+  devUsername: "ali9463",
+  web1: "https://real-state-website-using-next.vercel.app/",
+  web2: "https://github.com/ali9463",
+  web3: "https://www.alhabibtravel.co.uk/",
   resume: "/Ali Muhammad.pdf"
 }

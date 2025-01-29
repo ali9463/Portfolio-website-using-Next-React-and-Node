@@ -60,7 +60,7 @@ function ProjectCard({ project }) {
           </div>
           <div><span className="text-gray-400">{`};`}</span></div>
         </code>
-        <Link className="flex items-center justify-center gap-1 hover:gap-3 rounded-full bg-[#0000FF] px-3 md:px-8 py-3 md:py-4 text-center text-xs md:text-sm font-medium uppercase tracking-wider text-white no-underline transition-all duration-200 ease-out hover:text-white hover:no-underline md:font-semibold" role="button" target="_blank" href={personalData.github}
+        <Link className="flex items-center justify-center gap-1 hover:gap-3 rounded-full bg-[#0000FF] px-3 md:px-8 py-3 md:py-4 text-center text-xs md:text-sm font-medium uppercase tracking-wider text-white no-underline transition-all duration-200 ease-out hover:text-white hover:no-underline md:font-semibold" role="button" target="_blank" href={personalData.web1}
             >
               <span className='text-center'>View Project</span>
             </Link>
