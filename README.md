@@ -31,10 +31,6 @@ Follow these steps to set up the portfolio on your local machine:
 
    ```bash
    npm install
-4. **Install dependencies** :
-
-   ```bash
-   npm install
 
 ## Running The Project:
 
