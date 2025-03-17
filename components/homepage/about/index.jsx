@@ -30,7 +30,7 @@ function AboutSection() {
           <Image
             src={personalData.profile}
             width={350}
-            height={300}
+            height={350}
             alt="Ali"
             className="rounded-lg transition-all duration-1000 hover:scale-110 cursor-pointer"
           />

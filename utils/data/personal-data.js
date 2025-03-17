@@ -14,7 +14,7 @@
 
 export const personalData = {
   name: "Ali Muhammad",
-  profile: '/Profile.jpg',
+  profile: '/Profile.png',
   designation: "Full Stack Web Developer",
   designation3: "App Developer",
   description: "My name is Ali Muhammad, and I am a passionate and dedicated programmer with a strong drive for learning and exploring new technologies. I am a quick learner with a self-motivated approach, always eager to solve challenging problems and create impactful solutions.",

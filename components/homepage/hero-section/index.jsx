@@ -9,9 +9,9 @@ import { RiContactsFill } from "react-icons/ri";
 
 function HeroSection() {
   return (
-    <section className="relative flex flex-col items-center justify-between py-4 lg:py-12">
+    <section className="relative flex flex-col items-center justify-between py-3 lg:py-12">
 
-      <div className=" lg:gap-12 gap-y-8 items-center">
+      <div className=" lg:gap-12 gap-y- items-center">
         <div className="order-2 lg:order-1 flex flex-col items-center justify-center p-2 pb-20 md:pb-10 md:px-10 lg:pt-10">
         <Image
               src="/section.svg"
