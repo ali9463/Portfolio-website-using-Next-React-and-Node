@@ -16,7 +16,7 @@ export const personalData = {
   name: "Ali Muhammad",
   profile: '/Profile.jpg',
   designation: "Full Stack Web Developer",
-  designation3: "UI/UX Designer",
+  designation3: "App Developer",
   description: "My name is Ali Muhammad, and I am a passionate and dedicated programmer with a strong drive for learning and exploring new technologies. I am a quick learner with a self-motivated approach, always eager to solve challenging problems and create impactful solutions.",
   description2: "My expertise spans multiple areas of web development, with a strong foundation in JavaScript and a keen interest in building dynamic, user-friendly applications. I thrive on making technology accessible and effective, contributing to innovative projects that leave a mark.",
   email: 'chali.94063@gmail.com',

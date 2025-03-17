@@ -9,19 +9,11 @@ export const projectsData = [
     },
     {
         id: 2,
-        name: 'Ecommerce Project',
-        tools: ['React', 'Node', 'Mongo DB', 'Next'],
+        name: 'Movie App',
+        tools: ['React', 'API Keys'],
         role: 'Full Stack Web Developer',
         description: 'This is a Ecommerce Website named is  created by using React and Next js',
-         link: 'https://real-state-website-using-next.vercel.app/'
-    },
-    {
-        id: 3,
-        name: 'Travelling Project',
-        tools: [ 'Next', 'Mongo DB'],
-        role: 'Full Stack Web Developer',
-        description: 'This is a Travelling Website named is  created by using Next js',
-         link: 'https://www.alhabibtravel.co.uk/'
+         link: 'https://movie-app-git-main-alis-projects-bc6d7c7c.vercel.app'
     },
 ];
 
