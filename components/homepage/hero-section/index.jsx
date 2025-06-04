@@ -26,8 +26,8 @@ function HeroSection() {
             <span className="text-[#FFA500]">{personalData.name}</span>
             {` , A Professional `}
             <span className=" text-[#0000FF] font-bold">{personalData.designation}</span>
-            {` And `}
-            <span className=" text-[#0000FF] font-bold">{personalData.designation3}</span>
+            {/* {` And `}
+            <span className=" text-[#0000FF] font-bold">{personalData.designation3}</span> */}
             .
           </h1>
 
