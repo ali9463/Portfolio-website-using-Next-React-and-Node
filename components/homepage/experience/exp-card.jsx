@@ -36,7 +36,7 @@ function ExpCard({ exp }) {
         <code className="font-mono text-xs md:text-sm lg:text-base">
           <div className="blink">
             <span className="mr-2 text-pink-500">const</span>
-            <span className="mr-2 text-white">job</span>
+            <span className="mr-2 text-white">Internship</span>
             <span className="mr-2 text-pink-500">=</span>
             <span className="text-gray-400">{'{'}</span>
           </div>

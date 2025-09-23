@@ -2,10 +2,18 @@ export const experiences = [
   {
     id: 1,
     title: 'Full Stack Web Developer',
-    company: "Comsats University Islamabad, Sahiwal Campus",
-    duration: "(June 2024 - Present)",
+    company: "Next Gen Ventures Ltd, Lahore, Pakistan",
+    duration: "(July 2025 - August 2025)",
     languages: ['React', 'Node', 'Next', 'Mongo DB'],
-    image: '/png/comsats.png'
+    image: '/nextgen.png',
+  },
+  {
+    id: 2,
+    title: 'Full Stack Web Developer',
+    company: "Pakistan Internship Ltd, Lahore, Pakistan",
+    duration: "(September 2025 - October 2025)",
+    languages: ['React', 'Node', 'Next', 'Mongo DB'],
+    image: '/InternPak.png',
   },
 ]
 

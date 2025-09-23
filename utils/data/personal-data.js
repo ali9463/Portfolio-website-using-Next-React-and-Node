@@ -23,6 +23,8 @@ export const personalData = {
   phone: '+923317194063',
   address: 'Arifwala Punjab Pakistan',
   github: 'https://github.com/ali9463',
+  instagram: 'https://www.instagram.com/alich.4063/',
+  fiverr: 'https://www.fiverr.com/s/XL6dmw2',
   linkedIn: 'https://www.linkedin.com/in/ali-muhammad-a5923628a/',
   devUsername: "ali9463",
   resume: "/Ali Muhammad.pdf"

@@ -13,6 +13,20 @@ export const projectsData = [
         role: 'Full Stack Web Developer',
          link: 'https://movie-app-git-main-alis-projects-bc6d7c7c.vercel.app'
     },
+    {
+        id: 3,
+        name: 'Travel Agency Web',
+        languages: ['React', 'Node', 'Next', 'Javascript'],
+        role: 'Full Stack Web Developer',
+         link: 'https://www.alhabibtravel.co.uk/'
+    },
+    {
+        id: 4,
+        name: 'Caberr Web',
+        languages: ['React', 'Node', 'Maps Api', 'Javascript'],
+        role: 'Full Stack Web Developer',
+         link: 'https://www.alhabibtravel.co.uk/'
+    },
 ];
 
 // Do not remove any property.
