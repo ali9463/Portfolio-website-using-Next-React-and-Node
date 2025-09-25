@@ -25,7 +25,7 @@ export const projectsData = [
         name: 'Caberr Web',
         languages: ['React', 'Node', 'Maps Api', 'Javascript'],
         role: 'Full Stack Web Developer',
-         link: 'https://www.alhabibtravel.co.uk/'
+         link: 'https://caberr-app.vercel.app/'
     },
 ];
 
