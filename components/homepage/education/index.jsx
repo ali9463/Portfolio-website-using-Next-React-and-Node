@@ -38,8 +38,8 @@ function Education() {
               <Image
                   src="/relax.png"
                   alt="Hero"
-                  width={600}
-                  height={500}
+                  width={300}
+                  height={100}
                   // className="absolute top-0 -z-10"
                 />
             </div>
